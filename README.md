@@ -1,6 +1,6 @@
 # Task-3
 
-How to run the code
+### How to run the code
 
 In order to run the code open the ipynb file on Google Colaboratory
 
