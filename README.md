@@ -5,13 +5,16 @@ MIDAS@IIITD Summer Internship/RA Task 2021
 ## Task 3: NLP
 **Problem Statement**- Use a given dataset to build a model to predict the category using description. Write code in python.
 
+link of dataset-
+https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing
+
 1. Show how you would clean and process the data
 
 2. Show how you would visualize this data
 
 3. Show how you would measure the accuracy of the model
 
-4 .What ideas do you have to improve the accuracy of the model? What other algorithms would you try?
+4. What ideas do you have to improve the accuracy of the model? What other algorithms would you try?
 
 ### How to run the code
 
