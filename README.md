@@ -14,5 +14,5 @@ https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEO
 3.Copy the path of the given dataset file
 
 4.write the following code in the notebook
-        df = pd.read_csv('path')
-       in path the copied path of the dataset will come
+
+        df = pd.read_csv('path') ,    in path the copied path of the dataset will come
